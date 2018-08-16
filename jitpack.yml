@@ -1,2 +1,2 @@
 install:
-   - sbt +publishM2
+   - sbt ++2.12.2 sourcecodeJS/publishM2 sourcecodeJVM/publishM2
